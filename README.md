@@ -8,7 +8,6 @@ as TypeScript and .NET.</span>
 <i style="font-size:14px">A good programmer is someone who always looks both ways before crossing a one-way street.</i>
 </div>
 
-<hr/>
 
 <div align="center">
   <a title="home" href="https://blog.nguyentruonganhkiet.work">
